@@ -1,0 +1,2 @@
+# ror sample app
+xixi
